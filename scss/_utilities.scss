@@ -69,15 +69,17 @@ input[class^='btn-']:hover {
 .lead {
     font-size: 1.3rem;
     margin-bottom: 2rem;
-    font-weight: bolder;
+    font-weight: lighter;
 }
 
 .about-lead {
     font-size: 1.4rem;
+    font-weight: bold;
 }
 
 .about-p {
     font-size: 1.2rem;
+    font-weight: normal;
 }
 
 .text-center {
